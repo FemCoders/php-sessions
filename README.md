@@ -2,7 +2,8 @@
 
 ## ES
 
-- Objetivo:
+-Objetivo:
+
 Existe una página 'pages/index.php' que contiene un formulario de login donde se deberá ingresar un nombre de usuario y una contraseña. La información obtenida, deberá pasarse al archivo 'src/login.php' donde estará toda la lógica de verificación de usuario y contraseña.
 
 Las claves de acceso serán estáticas, esto quiere decir que, por esta vez, crearemos una variable que contenga el nombre de usuario y una variable con la constraseña, ya que normalmente esto va en una base de datos.
@@ -20,8 +21,8 @@ Si has terminado el ejercicio, puedes intentar ponerle validaciones al formulari
 --- 
 
 ## EN
+-Purpose:
 
-- Purpose: 
 There is a page 'pages/index.php' that contains a login form where a username and password must be entered. The information obtained must be passed to the 'src/login.php' file where all the user and password verification logic will be.
 
 The access keys will be static, this means that, for this moment, we will create a variable that contains the username and a variable with the password, since this normally goes in a database.
