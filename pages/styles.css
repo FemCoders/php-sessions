@@ -1,0 +1,10 @@
+.ct-form {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.ct-form input,
+label {
+    margin: 5px;
+}
